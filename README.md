@@ -1,5 +1,24 @@
-### Hi there 👋
+## Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/anmolagarwal17/anmolagarwal17.svg)](http://hits.dwyl.com/anmolagarwal17/anmolagarwal17)
+
+I firmly believe that constantly changing and evolving according to the world around you is essential for success and the way to do it is learning new things regularly.
+I'm currently pursuing B.Tech CSE from Invertis University.
+For now I am giving my time to competitive coding🧡👨‍💻 and building some projects alongside.
+Looking for internship/job opportunities.
+* Ping me at [anmolagarwal170@gmail.com](mailto:anmolagarwal170@gmail.com).
+* To know me better visit my [portfolio here](https://anmolagarwal.netlify.app/).
+* Connect with me on [linkdin](https://www.linkedin.com/in/anmol-agarwal-5b697b178/).
+
+Did I mention that I'm a:
+* Competitive coder
+* Full Stack Developer
+* Hard working
+* Creative
+* Problem solver
+* **& some other big words😉**
+
+_Thanks_ for visiting😇🧡
 <!--
 **anmolagarwal17/anmolagarwal17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
