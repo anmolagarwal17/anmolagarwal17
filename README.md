@@ -13,12 +13,12 @@ Looking for internship/job opportunities.
 Did I mention that I'm a:
 * Competitive coder
 * Full Stack Developer
-* Hard working
-* Creative
+* Hard working person
+* Creative individual
 * Problem solver
 * **& some other big words😉**
 
-_Thanks_ for visiting😇🧡
+Thanks for visiting😇🧡
 <!--
 **anmolagarwal17/anmolagarwal17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
